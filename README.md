@@ -1,8 +1,13 @@
-### Hola! Mi nombre es Franco Fiuri
+¡Hola! Soy Franco Fiuri
 
-Soy un entusiasta de la tecnología, programación y desarrollo de videos juegos. 
-Actualmente estoy cursando Tecnicatura en Programacion en la Facultad Regional de San Rafael, Mendoza, Argentina.
-Me estoy formalizando en lenguajes como Java, Python y C#.
-Mis objetivos son especializarme en el campo de la programacion de los videos juegos e introducirme en la industria gamer, tanto como desarrollador o cooperador de proyectos afines.
-Me adapto rapidamente al trabajo en equipo, y siempre estoy predispuesto a aprender nuevos metodos de trabajo. 
-Mi manejo del Ingles es fluido, y me sigo especializando en cursos para lograr tener un manejo optimo del idioma.
+Soy estudiante de la Tecnicatura Universitaria en Programación en la Facultad Regional San Rafael, Mendoza, Argentina, y me interesa especialmente el desarrollo de software y videojuegos.
+
+Actualmente me estoy formando en C#, Java y Python, mientras continúo desarrollando proyectos personales para aplicar y ampliar mis conocimientos. También cuento con experiencia trabajando con tecnologías y herramientas como Unity, JavaScript, React, Node.js, bases de datos, APIs y automatización.
+
+Mi principal objetivo profesional es especializarme en programación de videojuegos e incorporarme a la industria, participando en proyectos donde pueda seguir aprendiendo y desarrollándome como programador.
+
+Entre mis proyectos se encuentra un videojuego 2D inspirado en Arkanoid, desarrollado con Unity y C#, además de proyectos de software, integración de APIs y automatización con inteligencia artificial.
+
+Me interesa especialmente aprender nuevas tecnologías, enfrentar problemas de programación y trabajar en equipo en proyectos donde pueda aportar y, al mismo tiempo, continuar creciendo profesionalmente.
+
+Cuento con un buen nivel de inglés y continúo perfeccionándolo mediante formación y práctica constante.
